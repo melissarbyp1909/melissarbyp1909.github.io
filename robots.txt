@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://melissarbyp1909.github.io/melissarbyp1909_github_io_zp533_1.txt
+Sitemap: https://melissarbyp1909.github.io/melissarbyp1909_github_io_zp533_19.txt
+Sitemap: https://melissarbyp1909.github.io/melissarbyp1909_github_io_zp533_28.txt
